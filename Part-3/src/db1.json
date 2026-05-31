@@ -1,0 +1,32 @@
+{
+  "persons": [
+    {
+      "name": "john",
+      "number": "44",
+      "id": "a03K-QBWkHc"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "content": "a new note...ff",
+      "important": false,
+      "id": "O32l0M_N5KM"
+    },
+    {
+      "content": "a new note...gggg",
+      "important": false,
+      "id": "aWdwqwDgFg4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
